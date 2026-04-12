@@ -1,2 +1,2 @@
 # PHASE 1 : DATA CLEANING & PREPROCESSING
-Heart disease prediction ystem
+Heart disease prediction system 
