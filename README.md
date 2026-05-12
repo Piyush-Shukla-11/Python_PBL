@@ -1,4 +1,4 @@
-# PHASE 1 : DATA CLEANING & PREPROCESSING
+# Heart Disease Prediction System
 Heart disease prediction system 
 This project is designed to develop a Heart Disease Prediction System using machine learning techniques to determine the likelihood of a patient having heart 
 disease based on medical data. The dataset includes several important attributes such as age, gender, chest pain type, blood pressure, cholesterol levels, 
